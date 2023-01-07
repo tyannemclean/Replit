@@ -1,1 +1,1 @@
-print (f'hi')
+print (f'Hi, my name is Chatbot! How can I be of service to you today? Please enter your name so I can continue to help you.')
